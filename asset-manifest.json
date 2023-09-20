@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c224f51.css",
+    "main.js": "/static/js/main.e78d44b7.js",
+    "static/js/787.bc7d429a.chunk.js": "/static/js/787.bc7d429a.chunk.js",
+    "static/media/clapperboard.jpg": "/static/media/clapperboard.37944115f46766b1ba26.jpg",
+    "index.html": "/index.html",
+    "main.7c224f51.css.map": "/static/css/main.7c224f51.css.map",
+    "main.e78d44b7.js.map": "/static/js/main.e78d44b7.js.map",
+    "787.bc7d429a.chunk.js.map": "/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c224f51.css",
+    "static/js/main.e78d44b7.js"
+  ]
+}
